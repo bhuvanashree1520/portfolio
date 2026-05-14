@@ -1,5 +1,4 @@
-# portfolio
-My personal  portfolio and projects# Customer Segmentation using K-Means Clustering
+#Customer Segmentation using K-Means Clustering
 
 ## Project Overview
 This project uses Machine Learning to group customers based on:
