@@ -15,6 +15,12 @@ This project uses Machine Learning to group customers based on:
 ## Machine Learning Algorithm
 K-Means Clustering
 
+## Project Screenshots
+
+![Cluster Output](WhatsApp Image 2026-05-14 at 9.58.13 AM.jpeg)
+
+![Elbow Method](WhatsApp Image 2026-05-14 at 9.58.14 AM.jpeg)
+
 ## Features
 - Data preprocessing
 - Elbow Method
