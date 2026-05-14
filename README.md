@@ -17,9 +17,9 @@ K-Means Clustering
 
 ## Project Screenshots
 
-![Cluster Output](WhatsApp Image 2026-05-14 at 9.58.13 AM.jpeg)
+![Cluster Output](traffic_dashboard.jpeg)
 
-![Elbow Method](WhatsApp Image 2026-05-14 at 9.58.14 AM.jpeg)
+![Elbow Method](traffic_insights_dashboard.jpeg)
 
 ## Features
 - Data preprocessing
